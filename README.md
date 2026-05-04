@@ -32,6 +32,11 @@
 
 ## 💼 Experience
    * Completed internships (stage) in different places in Finland.
+     - Youth Workshop, City of Helsinki
+     - Kindergarden
+     - Cafeteria
+     - Vihreä Kaidas
+     - Roukakauppa
    * Gained experience in communication and teamwork.
 
 
