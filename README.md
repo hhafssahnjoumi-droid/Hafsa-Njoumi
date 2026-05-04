@@ -1,6 +1,6 @@
 # Hafsa-Njoumi
 
-<img width="300" height="500" alt="Hafsa1" src="https://github.com/user-attachments/assets/4dfe8cb9-51a7-47bf-80d4-99da1f5556f7" />
+<img width="400" height="500" alt="Hafsa1" src="https://github.com/user-attachments/assets/4dfe8cb9-51a7-47bf-80d4-99da1f5556f7" />
 
 
 
