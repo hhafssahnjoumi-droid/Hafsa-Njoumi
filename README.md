@@ -11,9 +11,8 @@
 🌱 Currently learning: HTML, CSS, JavaScript.
 
 ## 👩‍🎓 Education
-   * Studied 12 years in Morocco.
-   * Bachelor's degree in Physical Sciences (French).
-
+   * Studied 12 years in Morocco (BACCALAUREATE).
+     
 
 ## 🧠 Skills
    * HTML
